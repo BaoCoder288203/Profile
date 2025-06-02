@@ -36,7 +36,7 @@ I'm a passionate Software Engineering student with a keen interest in Full-Stack
 
 ## 📈 GitHub Stats
 
-![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaoCoder288203&show_icons=true&theme=radical)
+![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaoCoder=&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoCoder288203&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
