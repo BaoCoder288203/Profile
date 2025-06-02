@@ -13,10 +13,10 @@ I'm a passionate Software Engineering student with a keen interest in Full-Stack
 
 ### 💻 Languages
 - Java
+- NodeJS
+- ReactJS
+- HTML vs CSS
 - JavaScript
-- TypeScript
-- HTML
-- CSS
 
 ### ⚙️ Frameworks & Platforms
 - **Frontend**: ReactJS
