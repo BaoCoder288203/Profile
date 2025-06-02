@@ -7,7 +7,7 @@ I'm a passionate Software Engineering student with a keen interest in Full-Stack
 - 🚀 **Current Focus**: Developing real-world projects using ReactJS and Spring Boot
 - 🧠 **Learning Goals**: Enhancing skills in both frontend and backend technologies
 - 💬 **Ask Me About**: Full-stack development, software design, or backend optimization
-- 📫 **Contact**: baocoder288203@gmail.com
+- 📫 **Contact**: baon6777@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -34,24 +34,6 @@ I'm a passionate Software Engineering student with a keen interest in Full-Stack
 - RESTful APIs
 - Cloudinary
 
-## 📂 Projects
-
-### 🚲 [Bicycle E-commerce Website](https://github.com/BaoCoder288203/-Web-Site-Bicycle_E-commerce_FE)
-An online bicycle store featuring:
-- **Frontend**: ReactJS
-- **Backend**: Spring Boot
-- **Databases**: PostgreSQL, MongoDB Atlas
-- **Cloud Service**: Cloudinary
-- **Main Functions**:
-  - User Authentication & Authorization
-  - Product Management
-  - Shopping Cart & Checkout
-  - Order Management
-  - Admin Dashboard
-  - Comment & Rating System
-  - Media Upload
-  - Responsive Design
-
 ## 📈 GitHub Stats
 
 ![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaoCoder288203&show_icons=true&theme=radical)
@@ -60,4 +42,4 @@ An online bicycle store featuring:
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bao-nguyen-123456789/)
-- 📬 Email: baocoder288203@gmail.com
+- 📬 Email: baon777@gmail.com
